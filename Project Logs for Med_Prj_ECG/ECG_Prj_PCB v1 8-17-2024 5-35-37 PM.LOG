@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=P1.00 Pin=R311-1
+Added Pin To Net: NetName=P1.00 Pin=U200-D10
+Added Pin To Net: NetName=P1.00 Pin=U300-F7
+Added Net: Name=P1.00

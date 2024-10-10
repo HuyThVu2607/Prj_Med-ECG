@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=P0.21 Pin=U300-G7
+Change Component Designator: OldDesignator=R319 NewDesignator=R320
+Change Component Designator: OldDesignator=R320 NewDesignator=R321
+Change Component Designator: OldDesignator=R321 NewDesignator=R322
+Change Component Designator: OldDesignator=R322 NewDesignator=R323
+Change Component Designator: OldDesignator=R323 NewDesignator=R324
+Change Component Designator: OldDesignator=R324 NewDesignator=R325
+Change Component Designator: OldDesignator=R325 NewDesignator=R326
+Change Component Designator: OldDesignator=R326 NewDesignator=R327
+Change Component Designator: OldDesignator=R327 NewDesignator=R328
+Change Component Designator: OldDesignator=R328 NewDesignator=R329
+Change Component Designator: OldDesignator=R329 NewDesignator=R330
+Change Component Designator: OldDesignator=R330 NewDesignator=R331
+Change Component Designator: OldDesignator=R331 NewDesignator=R332
+Change Component Designator: OldDesignator=R332 NewDesignator=R333
+Change Component Designator: OldDesignator=R333 NewDesignator=R334
+Change Component Designator: OldDesignator=R334 NewDesignator=R335
+Change Component Designator: OldDesignator=R335 NewDesignator=R336
+Change Component Designator: OldDesignator=R336 NewDesignator=R337
+Change Component Designator: OldDesignator=R337 NewDesignator=R338
+Change Component Designator: OldDesignator=R338 NewDesignator=R339
+Change Component Designator: OldDesignator=R339 NewDesignator=R340
+Change Component Designator: OldDesignator=R340 NewDesignator=R341
+Added Component: Designator=R319(RES0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KLRDKR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AFE_A Pin=R319-2
+Change Net Name : Old Net Name=NetR321_2 New Net Name=NetR322_2
+Change Net Name : Old Net Name=NetR322_2 New Net Name=NetR323_2
+Change Net Name : Old Net Name=NetR323_1 New Net Name=NetR324_1
+Change Net Name : Old Net Name=NetR326_1 New Net Name=NetR327_1
+Change Net Name : Old Net Name=NetR328_2 New Net Name=NetR329_2
+Change Net Name : Old Net Name=NetR333_2 New Net Name=NetR334_2
+Change Net Name : Old Net Name=NetR334_1 New Net Name=NetR335_1
+Change Net Name : Old Net Name=NetR334_2 New Net Name=NetR335_2
+Added Pin To Net: NetName=NetR319_1 Pin=R319-1
+Added Pin To Net: NetName=NetR319_1 Pin=U300-G7
+Added Net: Name=NetR319_1
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R312 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R313 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R314 0R 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R316 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R318 0R 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R320 22.1k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R322 0R 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R324 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R326 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R328 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R330 22.1k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R333 0R 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R335 NI
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R337 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R339 NI
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R341 10k 1%

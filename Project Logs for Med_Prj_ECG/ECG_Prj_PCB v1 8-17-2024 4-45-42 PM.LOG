@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LTE_RX Pin=U200-J5
+Change Component Designator: OldDesignator=3 NewDesignator=C601
+Added Pin To Net: NetName=LTE_RX Pin=U200-K4
+Added Pin To Net: NetName=NetR601_1 Pin=R601-1
+Added Pin To Net: NetName=NetR601_1 Pin=U600-9
+Added Net: Name=NetR601_1

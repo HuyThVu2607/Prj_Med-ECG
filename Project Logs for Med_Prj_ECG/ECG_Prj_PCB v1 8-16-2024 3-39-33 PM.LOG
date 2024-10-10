@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AFE_A Pin=R322-2
+Removed Pin From Net: NetName=AFE_A Pin=XT300-4
+Added Pin To Net: NetName=AFE_D Pin=R322-2
+Added Pin To Net: NetName=AFE_D Pin=XT300-4

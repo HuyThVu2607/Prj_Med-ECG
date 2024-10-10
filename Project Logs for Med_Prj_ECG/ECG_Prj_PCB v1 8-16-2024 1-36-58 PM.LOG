@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=BIO_SENSOR Member=R?
+Change Component Designator: OldDesignator=R331 NewDesignator=R332
+Change Component Designator: OldDesignator=R332 NewDesignator=R333
+Change Component Designator: OldDesignator=R333 NewDesignator=R334
+Change Component Designator: OldDesignator=R334 NewDesignator=R335
+Change Component Designator: OldDesignator=R335 NewDesignator=R336
+Change Component Designator: OldDesignator=R336 NewDesignator=R337
+Change Component Designator: OldDesignator=R337 NewDesignator=R338
+Change Component Designator: OldDesignator=R338 NewDesignator=R339
+Change Component Designator: OldDesignator=R? NewDesignator=R331
+Change Net Name : Old Net Name=NetR331_2 New Net Name=NetR332_2
+Change Net Name : Old Net Name=NetR332_1 New Net Name=NetR333_1
+Change Net Name : Old Net Name=NetR332_2 New Net Name=NetR333_2
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R339 10k 1%
+Added Member To Class: ClassName=INTERFACE Member=Component R800 0R 1%

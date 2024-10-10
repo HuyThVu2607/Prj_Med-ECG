@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=U200-K11
+Added Pin To Net: NetName=LTE_TX Pin=U200-C4
+Added Pin To Net: NetName=LTE_RX Pin=U200-C6

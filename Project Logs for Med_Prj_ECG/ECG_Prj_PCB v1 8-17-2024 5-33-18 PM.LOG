@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=P0.29 New Net Name=NetLED200_3
+Added Pin To Net: NetName=NetR701_1 Pin=R701-1
+Added Pin To Net: NetName=NetR701_1 Pin=U700-7
+Added Net: Name=NetR701_1

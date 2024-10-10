@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=P0.27 Pin=LED200-2
+Added Pin To Net: NetName=P0.27 Pin=U200-H1
+Added Net: Name=P0.27
+Added Pin To Net: NetName=P0.29 Pin=LED200-3
+Added Pin To Net: NetName=P0.29 Pin=U200-E2
+Added Net: Name=P0.29

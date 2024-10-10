@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=P0.27 Pin=LED200-2
+Removed Pin From Net: NetName=P1.09 Pin=LED200-4
+Removed Pin From Net: NetName=P1.04 Pin=R119-1
+Removed Pin From Net: NetName=P1.04 Pin=R125-2
+Removed Pin From Net: NetName=P0.18 Pin=R204-1
+Removed Pin From Net: NetName=P1.00 Pin=R312-1
+Removed Pin From Net: NetName=P1.06 Pin=R505-2
+Removed Pin From Net: NetName=NetLED200_3 Pin=U200-E2
+Removed Pin From Net: NetName=LTE_PWR Pin=U200-J2
+Removed Pin From Net: NetName=LTE_RX Pin=U200-K4
+Removed Pin From Net: NetName=LTE_TX Pin=U200-K5
+Removed Pin From Net: NetName=NetR104_1 Pin=U200-L1
+Removed Pin From Net: NetName=P0.18 Pin=U201-1
+Removed Pin From Net: NetName=P0.14 Pin=U201-2
+Removed Pin From Net: NetName=P0.15 Pin=U201-3
+Removed Pin From Net: NetName=P0.16 Pin=U201-5
+Removed Pin From Net: NetName=P0.17 Pin=U201-6
+Removed Pin From Net: NetName=P0.13 Pin=U201-7
+Removed Pin From Net: NetName=P0.12 Pin=U300-E3
+Removed Pin From Net: NetName=P0.10 Pin=U300-E5
+Removed Pin From Net: NetName=P0.09 Pin=U300-E6
+Removed Pin From Net: NetName=P0.08 Pin=U300-E7
+Removed Pin From Net: NetName=P0.04 Pin=U300-E8
+Removed Pin From Net: NetName=P0.11 Pin=U300-F3
+Removed Pin From Net: NetName=P0.07 Pin=U300-F5
+Removed Pin From Net: NetName=P1.00 Pin=U300-F7
+Removed Pin From Net: NetName=P0.02 Pin=U300-F8
+Removed Pin From Net: NetName=P0.03 Pin=U300-H8
+Removed Pin From Net: NetName=P1.06 Pin=U500-4
+Removed Pin From Net: NetName=P1.05 Pin=U500-9
+Added Pin To Net: NetName=P0.17 Pin=U300-E5
+Added Pin To Net: NetName=P1.05 Pin=U300-E6
+Added Pin To Net: NetName=P0.16 Pin=U300-E8
+Added Pin To Net: NetName=NetLED200_2 Pin=LED200-2
+Added Net: Name=NetLED200_2
+Added Pin To Net: NetName=NetLED200_4 Pin=LED200-4
+Added Net: Name=NetLED200_4
+Added Pin To Net: NetName=NetR119_1 Pin=R119-1
+Added Pin To Net: NetName=NetR119_1 Pin=R125-2
+Added Net: Name=NetR119_1
+Added Pin To Net: NetName=NetR204_1 Pin=R204-1
+Added Pin To Net: NetName=NetR204_1 Pin=U201-1
+Added Net: Name=NetR204_1
+Added Pin To Net: NetName=NetR312_1 Pin=R312-1
+Added Pin To Net: NetName=NetR312_1 Pin=U300-F7
+Added Net: Name=NetR312_1
+Added Pin To Net: NetName=NetR505_2 Pin=R505-2
+Added Pin To Net: NetName=NetR505_2 Pin=U500-4
+Added Net: Name=NetR505_2
+Added Pin To Net: NetName=NetU201_2 Pin=U201-2
+Added Net: Name=NetU201_2
+Added Pin To Net: NetName=NetU201_3 Pin=U201-3
+Added Net: Name=NetU201_3
+Added Pin To Net: NetName=NetU201_5 Pin=U201-5
+Added Net: Name=NetU201_5
+Added Pin To Net: NetName=NetU201_6 Pin=U201-6
+Added Net: Name=NetU201_6
+Added Pin To Net: NetName=NetU201_7 Pin=U201-7
+Added Net: Name=NetU201_7
+Added Pin To Net: NetName=NetU300_F3 Pin=U300-F3
+Added Net: Name=NetU300_F3
+Added Pin To Net: NetName=NetU300_F5 Pin=U300-F5
+Added Net: Name=NetU300_F5
+Added Pin To Net: NetName=NetU300_F8 Pin=U300-F8
+Added Net: Name=NetU300_F8
+Added Pin To Net: NetName=NetU300_H8 Pin=U300-H8
+Added Net: Name=NetU300_H8
+Added Pin To Net: NetName=NetU500_9 Pin=U500-9
+Added Net: Name=NetU500_9
+Added Pin To Net: NetName=P0.05 Pin=U200-F10
+Added Net: Name=P0.05
+Added Pin To Net: NetName=P0.06 Pin=U200-H10
+Added Net: Name=P0.06
+Added Pin To Net: NetName=P0.19 Pin=U200-J5
+Added Net: Name=P0.19
+Added Pin To Net: NetName=P0.20 Pin=U200-K5
+Added Net: Name=P0.20
+Added Pin To Net: NetName=P0.21 Pin=U200-J4
+Added Net: Name=P0.21
+Added Pin To Net: NetName=P0.22 Pin=U200-K4
+Added Pin To Net: NetName=P0.22 Pin=U300-E7
+Added Net: Name=P0.22
+Added Pin To Net: NetName=P0.23 Pin=U200-H3
+Added Net: Name=P0.23
+Added Pin To Net: NetName=P0.25 Pin=U200-L1
+Added Pin To Net: NetName=P0.25 Pin=U300-E3
+Added Net: Name=P0.25
+Added Pin To Net: NetName=P0.26 Pin=U200-J2
+Added Net: Name=P0.26
+Added Pin To Net: NetName=P0.28 Pin=U200-E3
+Added Net: Name=P0.28

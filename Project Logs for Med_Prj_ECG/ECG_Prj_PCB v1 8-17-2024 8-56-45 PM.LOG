@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=DP Pin=U102-5
+Removed Pin From Net: NetName=DN Pin=U102-6
+Added Pin To Net: NetName=DN Pin=U102-5
+Added Pin To Net: NetName=DP Pin=U102-6
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R102 0R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R104 560R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R105 0R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R107 5.1k 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R108 0R
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R110 0R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R112 0R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R114 5.25k 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R116 0R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R118 20R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R120 10k 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R122 10k 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R123 10k 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R125 NI
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R126 NC
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R127 10k 1%

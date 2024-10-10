@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=LTE_PWR Pin=R702-1
+Removed Pin From Net: NetName=LTE_PWR Pin=U700-15
+Added Component: Designator=TP700(TP)
+Added Component: Designator=TP701(TP)
+Added Component: Designator=TP702(TP)
+Added Pin To Net: NetName=LTE_RST Pin=R702-1
+Added Pin To Net: NetName=LTE_RST Pin=TP702-1
+Added Pin To Net: NetName=LTE_RST Pin=U700-15
+Added Net: Name=LTE_RST
+Added Pin To Net: NetName=NetTP700_1 Pin=TP700-1
+Added Pin To Net: NetName=NetTP700_1 Pin=U700-38
+Added Net: Name=NetTP700_1
+Added Pin To Net: NetName=NetTP701_1 Pin=TP701-1
+Added Pin To Net: NetName=NetTP701_1 Pin=U700-39
+Added Net: Name=NetTP701_1
+Added Member To Class: ClassName=GSM Member=Component TP700 TP
+Added Member To Class: ClassName=GSM Member=Component TP701 TP
+Added Member To Class: ClassName=GSM Member=Component TP702 TP

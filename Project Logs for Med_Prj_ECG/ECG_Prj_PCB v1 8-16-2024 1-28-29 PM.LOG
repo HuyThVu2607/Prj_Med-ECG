@@ -1,0 +1,175 @@
+Change Component Comment : Designator=R124 Old Comment=10k 1% New Comment=NI
+Change Component Comment : Designator=R107 Old Comment=560R 1% New Comment=0R
+Change Component Designator: OldDesignator=R800 NewDesignator=R801
+Added Component: Designator=BAT800(S8421-45R)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/HRWN/HRWN-S-A0000709403/HRWN-S-A0000709403-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/HRWN/HRWN-S-A0000709403/HRWN-S-A0000709403-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7613/s8421r-7613429.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7613/s8421r-7613429.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/5224/s8421r-64815-5224678.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/5224/s8421r-64815-5224678.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "S8421-45R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.67, 10=1.404, 50=1.234, 100=1.1627, 250=1.06944 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "2630"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "952-1737-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-1737-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C800(CAP0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-6328-6-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C801(CAP0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-6328-6-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R800(RES0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R802(RES0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KLRDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R803(RES0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KLRDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U800(DS1307+)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Real Time Clocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency"; Value = "32kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MAXM/MAXM-S-A0000633411/MAXM-S-A0000664014-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MAXM/MAXM-S-A0000633411/MAXM-S-A0000664014-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/14085/ds1307-14085608.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/14085/ds1307-14085608.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/1498/ds1307-1498866.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/1498/ds1307-1498866.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/3304/ds1307-3304457.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/3304/ds1307-3304457.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/14577/70127931-14577227.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/14577/70127931-14577227.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/1491/ds1307-1491905.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/1491/ds1307-1491905.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/1139/46359-1139142.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/1139/46359-1139142.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-30 Code"; Value = "R-PDSO-G8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DS1307Z+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity Level"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Body Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Equivalence Code"; Value = "SOP8,.25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Style"; Value = "SMALL OUTLINEMeter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reflow Temperature (Cel)"; Value = "260°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supplies"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=5.05, 10=4.535, 25=4.2868, 100=3.7153, 300=3.5248, 500=3.16278, 1000=2.66741, 2500=2.53404 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qualification Status"; Value = "Not Qualified"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "DS1307Z+-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DS1307Z+-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface Mount"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Grade"; Value = "COMMERCIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Form"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "1.27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Position"; Value = "DUAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.9mm"; VariantName = "[No Variations]"
+Added Component: Designator=X200(32Khz)
+Add component (AddParameter): Name = "Category"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micro Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CM8V-T1A-32.768KHZ-12.5PF-20PPM-TA-QA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.43, 10=0.366, 50=0.33, 100=0.3156, 500=0.28466 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "22759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2195-CM8V-T1A-32.768KHZ-12.5PF-20PPM-TA-QACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2195-CM8V-T1A-32.768KHZ-12.5PF-20PPM-TA-QACT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=X800(32Khz)
+Add component (AddParameter): Name = "Category"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micro Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CM8V-T1A-32.768KHZ-12.5PF-20PPM-TA-QA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.43, 10=0.366, 50=0.33, 100=0.3156, 500=0.28466 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "22759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2195-CM8V-T1A-32.768KHZ-12.5PF-20PPM-TA-QACT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2195-CM8V-T1A-32.768KHZ-12.5PF-20PPM-TA-QACT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BAT800-N
+Added Pin To Net: NetName=GND Pin=C800-2
+Added Pin To Net: NetName=GND Pin=C801-2
+Added Pin To Net: NetName=P0.25 Pin=R800-1
+Added Pin To Net: NetName=P1.03 Pin=R802-1
+Added Pin To Net: NetName=P1.02 Pin=R803-1
+Added Pin To Net: NetName=NetDB300_14 Pin=R?-1
+Added Pin To Net: NetName=NetC338_2 Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U800-4
+Added Pin To Net: NetName=P1.02 Pin=U800-5
+Added Pin To Net: NetName=P1.03 Pin=U800-6
+Change Net Name : Old Net Name=NetJ800_6 New Net Name=P1.15
+Change Net Name : Old Net Name=P0.25 New Net Name=VBAT
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(247, 120, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(90, 78, 9) New Net Color=Default
+Change Net Color : Old Net Color=RGB(68, 60, 62) New Net Color=Default
+Change Net Color : Old Net Color=RGB(68, 60, 62) New Net Color=Default
+Change Net Color : Old Net Color=RGB(68, 60, 62) New Net Color=Default
+Change Net Color : Old Net Color=RGB(68, 60, 62) New Net Color=Default
+Added Pin To Net: NetName=NetBAT800_P Pin=BAT800-P
+Added Pin To Net: NetName=NetBAT800_P Pin=U800-3
+Added Net: Name=NetBAT800_P
+Added Pin To Net: NetName=NetU200_F11 Pin=U200-F11
+Added Pin To Net: NetName=NetU200_F11 Pin=X200-1
+Added Net: Name=NetU200_F11
+Added Pin To Net: NetName=NetU200_F12 Pin=U200-F12
+Added Pin To Net: NetName=NetU200_F12 Pin=X200-2
+Added Net: Name=NetU200_F12
+Added Pin To Net: NetName=NetU800_1 Pin=U800-1
+Added Pin To Net: NetName=NetU800_1 Pin=X800-1
+Added Net: Name=NetU800_1
+Added Pin To Net: NetName=NetU800_2 Pin=U800-2
+Added Pin To Net: NetName=NetU800_2 Pin=X800-2
+Added Net: Name=NetU800_2
+Added Pin To Net: NetName=RTC_VDD Pin=C800-1
+Added Pin To Net: NetName=RTC_VDD Pin=C801-1
+Added Pin To Net: NetName=RTC_VDD Pin=R800-2
+Added Pin To Net: NetName=RTC_VDD Pin=R802-2
+Added Pin To Net: NetName=RTC_VDD Pin=R803-2
+Added Pin To Net: NetName=RTC_VDD Pin=U800-8
+Added Net: Name=RTC_VDD
+Added Member To Class: ClassName=INTERFACE Member=Component BAT800 CR2032
+Added Member To Class: ClassName=INTERFACE Member=Component C800 0.1u
+Added Member To Class: ClassName=INTERFACE Member=Component C801 1u
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R118 300R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R119 10k 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R121 10k 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R123 10k 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R124 NI
+Added Member To Class: ClassName=INTERFACE Member=Component R801 0R 1%
+Added Member To Class: ClassName=INTERFACE Member=Component R802 10k 1%
+Added Member To Class: ClassName=INTERFACE Member=Component R803 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R? 0R 1%
+Added Member To Class: ClassName=INTERFACE Member=Component U800 DS1307Z+
+Added Member To Class: ClassName=MCU Member=Component X200 32KHz
+Added Member To Class: ClassName=INTERFACE Member=Component X800 32KHz
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_15

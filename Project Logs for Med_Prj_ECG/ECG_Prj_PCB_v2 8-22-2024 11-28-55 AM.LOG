@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IMU_VDD Pin=C501-1
+Removed Pin From Net: NetName=IMU_VDD Pin=U500-5
+Added Pin To Net: NetName=NetC500_1 Pin=C501-1
+Added Pin To Net: NetName=NetC500_1 Pin=U500-5

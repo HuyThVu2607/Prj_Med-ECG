@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=IMU_VDD Pin=C501-1
+Added Pin To Net: NetName=GND Pin=C501-2

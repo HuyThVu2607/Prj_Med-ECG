@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LTE_TX Pin=U200-J4
+Removed Pin From Net: NetName=LTE_TX Pin=U300-G7
+Change Net Name : Old Net Name=P0.21 New Net Name=P0.22
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(247, 120, 0)
+Added Pin To Net: NetName=P0.21 Pin=U200-J4
+Added Pin To Net: NetName=P0.21 Pin=U300-G7
+Added Net: Name=P0.21

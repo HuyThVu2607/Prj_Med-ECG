@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=P0.25 Pin=U300-E3
+Removed Pin From Net: NetName=P0.22 Pin=U300-E7
+Added Pin To Net: NetName=P0.25 Pin=U300-E7
+Added Pin To Net: NetName=NetU300_E3 Pin=U300-E3
+Added Net: Name=NetU300_E3

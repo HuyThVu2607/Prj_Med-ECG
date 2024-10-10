@@ -1,0 +1,220 @@
+Removed Pin From Net: NetName=OTG Pin=R118-2
+Removed Pin From Net: NetName=AFE_PWDN Pin=U200-H3
+Removed Pin From Net: NetName=P0.21 Pin=U200-J4
+Removed Pin From Net: NetName=AFE_RESET Pin=U200-K4
+Change Component Designator: OldDesignator=J1 NewDesignator=J800
+Change Component Designator: OldDesignator=R1 NewDesignator=R800
+Change Component Designator: OldDesignator=R119 NewDesignator=R118
+Change Component Designator: OldDesignator=R120 NewDesignator=R119
+Change Component Designator: OldDesignator=R121 NewDesignator=R120
+Change Component Designator: OldDesignator=R122 NewDesignator=R121
+Change Component Designator: OldDesignator=R123 NewDesignator=R122
+Change Component Designator: OldDesignator=R124 NewDesignator=R123
+Added Component: Designator=ANT700(2337019-1)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A144746CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C700(CAP0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-6328-6-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C701(CAP0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-6328-6-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C702(CAP0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-6328-6-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C703(CAP0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-6328-6-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C704(CAP0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-6328-6-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C705(CAP0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-6328-6-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D700(DESD3V3S1BL-7B)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DESD3V3S1BL-7BDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D701(DESD3V3S1BL-7B)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DESD3V3S1BL-7BDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R124(RES0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KLRDKR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R700(RES0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R701(RES0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R702(RES0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R703(RES0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R704(RES0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R705(RES0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0JRTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U700(BC65PB-04-STD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com/BC65PB-04-STD-Quectel-datasheet-163886004.pdf?src-supplier=SOS+electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com/BC65PB-04-STD-Quectel-datasheet-163886004.pdf?src-supplier=SOS+electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Quectel Wireless Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BC65PB-04-STD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=8.4, 10=7.7, 25=7, 100=6.3 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "1260"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2958-BC65PB-04-STDCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2958-BC65PB-04-STDCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U701(0786463001)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MOLE/MOLE-S-A0006767587/MOLE-S-A0006867848-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MOLE/MOLE-S-A0006767587/MOLE-S-A0006867848-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "NOT SPECIFIED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0786463001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "78646"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.89, 10=0.737, 100=0.6142 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "215355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "WM9364CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM9364CT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=ANT700-G1
+Added Pin To Net: NetName=GND Pin=ANT700-G2
+Added Pin To Net: NetName=GND Pin=C700-2
+Added Pin To Net: NetName=GND Pin=C701-2
+Added Pin To Net: NetName=GND Pin=C702-2
+Added Pin To Net: NetName=GND Pin=C703-2
+Added Pin To Net: NetName=GND Pin=C704-2
+Added Pin To Net: NetName=GND Pin=C705-2
+Added Pin To Net: NetName=GND Pin=D700-2
+Added Pin To Net: NetName=GND Pin=D701-2
+Added Pin To Net: NetName=3V3 Pin=R119-1
+Added Pin To Net: NetName=3V3 Pin=R120-1
+Added Pin To Net: NetName=3V3 Pin=R122-1
+Added Pin To Net: NetName=3V3 Pin=R124-1
+Added Pin To Net: NetName=OTG Pin=R124-2
+Added Pin To Net: NetName=OTG Pin=R126-2
+Added Pin To Net: NetName=P0.18 Pin=R204-1
+Added Pin To Net: NetName=3V3 Pin=R700-1
+Added Pin To Net: NetName=AFE_RESET Pin=U200-H3
+Added Pin To Net: NetName=AFE_PWDN Pin=U200-K2
+Added Pin To Net: NetName=P0.21 Pin=U200-K4
+Added Pin To Net: NetName=P0.18 Pin=U201-1
+Added Pin To Net: NetName=GND Pin=U700-1
+Added Pin To Net: NetName=GND Pin=U700-10
+Added Pin To Net: NetName=GND Pin=U700-27
+Added Pin To Net: NetName=GND Pin=U700-34
+Added Pin To Net: NetName=GND Pin=U700-36
+Added Pin To Net: NetName=GND Pin=U700-37
+Added Pin To Net: NetName=GND Pin=U700-40
+Added Pin To Net: NetName=GND Pin=U700-41
+Added Pin To Net: NetName=GND Pin=U701-C5
+Added Pin To Net: NetName=GND Pin=U701-G1
+Added Pin To Net: NetName=GND Pin=U701-G2
+Added Pin To Net: NetName=GND Pin=U701-G3
+Added Pin To Net: NetName=GND Pin=U701-G4
+Added Pin To Net: NetName=GND Pin=U701-G5
+Added Pin To Net: NetName=GND Pin=U701-G6
+Change Net Name : Old Net Name=NetJ1_6 New Net Name=NetJ800_6
+Change Net Name : Old Net Name=NetR122_1 New Net Name=NetR121_1
+Change Net Name : Old Net Name=NetR124_1 New Net Name=NetR123_1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(90, 78, 9)
+Change Net Color : Old Net Color=RGB(255, 238, 0) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 238, 0) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(255, 238, 0) New Net Color=Yellow
+Added Pin To Net: NetName=LTE_PWR Pin=R701-1
+Added Pin To Net: NetName=LTE_PWR Pin=U200-E10
+Added Pin To Net: NetName=LTE_PWR Pin=U700-7
+Added Net: Name=LTE_PWR
+Added Pin To Net: NetName=LTE_RST Pin=R702-1
+Added Pin To Net: NetName=LTE_RST Pin=U200-J2
+Added Pin To Net: NetName=LTE_RST Pin=U700-15
+Added Net: Name=LTE_RST
+Added Pin To Net: NetName=LTE_RX Pin=U200-J5
+Added Pin To Net: NetName=LTE_RX Pin=U700-18
+Added Net: Name=LTE_RX
+Added Pin To Net: NetName=LTE_TX Pin=U200-J4
+Added Pin To Net: NetName=LTE_TX Pin=U200-K5
+Added Pin To Net: NetName=LTE_TX Pin=U300-G7
+Added Pin To Net: NetName=LTE_TX Pin=U700-17
+Added Net: Name=LTE_TX
+Added Pin To Net: NetName=LTE_VDD Pin=C700-1
+Added Pin To Net: NetName=LTE_VDD Pin=C701-1
+Added Pin To Net: NetName=LTE_VDD Pin=D700-1
+Added Pin To Net: NetName=LTE_VDD Pin=R700-2
+Added Pin To Net: NetName=LTE_VDD Pin=R701-2
+Added Pin To Net: NetName=LTE_VDD Pin=R702-2
+Added Pin To Net: NetName=LTE_VDD Pin=U700-42
+Added Pin To Net: NetName=LTE_VDD Pin=U700-43
+Added Net: Name=LTE_VDD
+Added Pin To Net: NetName=NetANT700_1 Pin=ANT700-1
+Added Pin To Net: NetName=NetANT700_1 Pin=D701-1
+Added Pin To Net: NetName=NetANT700_1 Pin=R703-1
+Added Net: Name=NetANT700_1
+Added Pin To Net: NetName=NetC702_1 Pin=C702-1
+Added Pin To Net: NetName=NetC702_1 Pin=R703-2
+Added Pin To Net: NetName=NetC702_1 Pin=R704-1
+Added Net: Name=NetC702_1
+Added Pin To Net: NetName=NetC703_1 Pin=C703-1
+Added Pin To Net: NetName=NetC703_1 Pin=R704-2
+Added Pin To Net: NetName=NetC703_1 Pin=U700-35
+Added Net: Name=NetC703_1
+Added Pin To Net: NetName=SIM_CLK Pin=U700-13
+Added Pin To Net: NetName=SIM_CLK Pin=U701-C3
+Added Net: Name=SIM_CLK
+Added Pin To Net: NetName=SIM_DTA Pin=C705-1
+Added Pin To Net: NetName=SIM_DTA Pin=R705-1
+Added Pin To Net: NetName=SIM_DTA Pin=U700-11
+Added Pin To Net: NetName=SIM_DTA Pin=U701-C7
+Added Net: Name=SIM_DTA
+Added Pin To Net: NetName=SIM_RST Pin=U700-12
+Added Pin To Net: NetName=SIM_RST Pin=U701-C2
+Added Net: Name=SIM_RST
+Added Pin To Net: NetName=SIM_VDD Pin=C704-1
+Added Pin To Net: NetName=SIM_VDD Pin=R705-2
+Added Pin To Net: NetName=SIM_VDD Pin=U700-14
+Added Pin To Net: NetName=SIM_VDD Pin=U701-C1
+Added Net: Name=SIM_VDD
+Added Class: Name=GSM
+Added Member To Class: ClassName=SOURCE_POWER Member=Component C101 10u
+Added Member To Class: ClassName=SOURCE_POWER Member=Component C103 1u
+Added Member To Class: ClassName=SOURCE_POWER Member=Component C105 1u
+Added Member To Class: ClassName=SOURCE_POWER Member=Component C107 1u
+Added Member To Class: ClassName=BIO_SENSOR Member=Component C311 100n
+Added Member To Class: ClassName=BIO_SENSOR Member=Component C313 10u
+Added Member To Class: ClassName=BIO_SENSOR Member=Component D300 DESD3V3S1BL-7B
+Added Member To Class: ClassName=BIO_SENSOR Member=Component D301 DESD3V3S1BL-7B
+Added Member To Class: ClassName=BIO_SENSOR Member=Component D302 DESD3V3S1BL-7B
+Added Member To Class: ClassName=BIO_SENSOR Member=Component D303 DESD3V3S1BL-7B
+Added Member To Class: ClassName=BIO_SENSOR Member=Component D304 DESD3V3S1BL-7B
+Added Member To Class: ClassName=BIO_SENSOR Member=Component D305 DESD3V3S1BL-7B
+Added Member To Class: ClassName=BIO_SENSOR Member=Component D306 DESD3V3S1BL-7B
+Added Member To Class: ClassName=BIO_SENSOR Member=Component D307 DESD3V3S1BL-7B
+Added Member To Class: ClassName=BIO_SENSOR Member=Component D308 DESD3V3S1BL-7B
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R100 0R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R102 0R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R107 560R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R108 560R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R110 0R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R112 0R 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R114 31.23k 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R116 NTC 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R119 10k 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R121 10k 1%
+Added Member To Class: ClassName=SOURCE_POWER Member=Component R124 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component TP310 TP
+Added Member To Class: ClassName=BIO_SENSOR Member=Component TP312 TP
+Added Member To Class: ClassName=BIO_SENSOR Member=Component TP314 TP
+Added Member To Class: ClassName=BIO_SENSOR Member=Component TP316 TP
+Added Member To Class: ClassName=SOURCE_POWER Member=Component U101 TPS7A0218PDQNR
+Added Member To Class: ClassName=SOURCE_POWER Member=Component U103 TPS7A0233DQNR
+Added Rule: Name=Schematic Supply Nets_1

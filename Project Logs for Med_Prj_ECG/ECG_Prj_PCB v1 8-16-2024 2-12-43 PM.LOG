@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=AFE_A Pin=TP300-1
+Removed Pin From Net: NetName=AFE_D Pin=TP301-1
+Removed Pin From Net: NetName=VCAP4 Pin=TP302-1
+Removed Pin From Net: NetName=VCAP3 Pin=TP303-1
+Removed Pin From Net: NetName=VCAP2 Pin=TP304-1
+Removed Pin From Net: NetName=VCAP1 Pin=TP305-1
+Removed Pin From Net: NetName=GND Pin=TP306-1
+Removed Pin From Net: NetName=AGND Pin=TP307-1
+Removed Pin From Net: NetName=NetC322_1 Pin=TP308-1
+Removed Pin From Net: NetName=NetC325_1 Pin=TP309-1
+Removed Pin From Net: NetName=NetC323_2 Pin=TP310-1
+Removed Pin From Net: NetName=NetC329_1 Pin=TP311-1
+Removed Pin From Net: NetName=NetC331_1 Pin=TP312-1
+Removed Pin From Net: NetName=NetC333_1 Pin=TP313-1
+Removed Pin From Net: NetName=NetC335_1 Pin=TP314-1
+Removed Pin From Net: NetName=NetC337_1 Pin=TP315-1
+Removed Pin From Net: NetName=NetC340_1 Pin=TP316-1
+Removed Pin From Net: NetName=NetC342_1 Pin=TP317-1
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP300
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP301
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP302
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP303
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP304
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP305
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP306
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP307
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP308
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP309
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP310
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP311
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP312
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP313
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP314
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP315
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP316
+Removed Member From Class: ClassName=BIO_SENSOR Member=TP317
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R331 0R 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R333 NI
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R335 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R337 NI

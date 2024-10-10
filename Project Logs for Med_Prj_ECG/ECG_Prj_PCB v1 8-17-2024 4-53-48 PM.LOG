@@ -1,0 +1,45 @@
+Change Component Designator: OldDesignator=R311 NewDesignator=R313
+Change Component Designator: OldDesignator=R312 NewDesignator=R314
+Change Component Designator: OldDesignator=R313 NewDesignator=R311
+Change Component Designator: OldDesignator=R314 NewDesignator=R315
+Change Component Designator: OldDesignator=R315 NewDesignator=R316
+Change Component Designator: OldDesignator=R316 NewDesignator=R317
+Change Component Designator: OldDesignator=R317 NewDesignator=R318
+Change Component Designator: OldDesignator=R318 NewDesignator=R319
+Change Component Designator: OldDesignator=R319 NewDesignator=R320
+Change Component Designator: OldDesignator=R320 NewDesignator=R321
+Change Component Designator: OldDesignator=R321 NewDesignator=R322
+Change Component Designator: OldDesignator=R322 NewDesignator=R323
+Change Component Designator: OldDesignator=R323 NewDesignator=R324
+Change Component Designator: OldDesignator=R324 NewDesignator=R325
+Change Component Designator: OldDesignator=R325 NewDesignator=R326
+Change Component Designator: OldDesignator=R326 NewDesignator=R327
+Change Component Designator: OldDesignator=R327 NewDesignator=R328
+Change Component Designator: OldDesignator=R328 NewDesignator=R329
+Change Component Designator: OldDesignator=R329 NewDesignator=R330
+Change Component Designator: OldDesignator=R330 NewDesignator=R331
+Change Component Designator: OldDesignator=R331 NewDesignator=R332
+Change Component Designator: OldDesignator=R332 NewDesignator=R333
+Change Component Designator: OldDesignator=R333 NewDesignator=R334
+Change Component Designator: OldDesignator=R334 NewDesignator=R335
+Change Component Designator: OldDesignator=R335 NewDesignator=R336
+Change Component Designator: OldDesignator=R336 NewDesignator=R337
+Change Component Designator: OldDesignator=R337 NewDesignator=R338
+Change Component Designator: OldDesignator=R338 NewDesignator=R339
+Change Component Designator: OldDesignator=R339 NewDesignator=R340
+Added Component: Designator=R312(RES0402)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-1.00KLRDKR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P0.06 Pin=R312-1
+Added Pin To Net: NetName=AFE_D Pin=R312-2
+Change Net Name : Old Net Name=NetR312_2 New Net Name=NetR314_2
+Change Net Name : Old Net Name=NetR317_2 New Net Name=NetR318_2
+Change Net Name : Old Net Name=NetR320_2 New Net Name=NetR321_2
+Change Net Name : Old Net Name=NetR321_2 New Net Name=NetR322_2
+Change Net Name : Old Net Name=NetR322_1 New Net Name=NetR323_1
+Change Net Name : Old Net Name=NetR325_1 New Net Name=NetR326_1
+Change Net Name : Old Net Name=NetR327_2 New Net Name=NetR328_2
+Change Net Name : Old Net Name=NetR332_2 New Net Name=NetR333_2
+Change Net Name : Old Net Name=NetR333_1 New Net Name=NetR334_1
+Change Net Name : Old Net Name=NetR333_2 New Net Name=NetR334_2
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R340 10k 1%

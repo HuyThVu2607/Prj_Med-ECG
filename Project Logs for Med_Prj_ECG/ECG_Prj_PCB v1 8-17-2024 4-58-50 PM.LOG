@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=AFE_A Pin=R319-2
+Added Pin To Net: NetName=AFE_D Pin=R319-2
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R319 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R321 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R323 0R 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R325 22.1k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R327 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R329 0R 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R331 10k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R334 0R 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R336 22.1k 1%
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R338 NI
+Added Member To Class: ClassName=BIO_SENSOR Member=Component R340 22.1k 1%

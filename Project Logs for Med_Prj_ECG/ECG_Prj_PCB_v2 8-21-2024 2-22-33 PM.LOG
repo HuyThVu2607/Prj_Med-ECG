@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C105-2
+Removed Pin From Net: NetName=GND Pin=C106-2
+Removed Pin From Net: NetName=VCC Pin=C107-1
+Removed Pin From Net: NetName=GND Pin=C107-2
+Removed Pin From Net: NetName=VCC Pin=R100-1
+Removed Pin From Net: NetName=VCC Pin=R101-1
+Removed Pin From Net: NetName=NetL300_1 Pin=R300-2
+Removed Pin From Net: NetName=GND Pin=U101-2
+Removed Pin From Net: NetName=GND Pin=U101-5
+Removed Member From Class: ClassName=SOURCE_POWER Member=C105
+Removed Member From Class: ClassName=SOURCE_POWER Member=C106
+Removed Member From Class: ClassName=SOURCE_POWER Member=C107
+Removed Member From Class: ClassName=SOURCE_POWER Member=R100
+Removed Member From Class: ClassName=SOURCE_POWER Member=R101
+Removed Member From Class: ClassName=BIO_SENSOR Member=R300
+Removed Member From Class: ClassName=SOURCE_POWER Member=U101

@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=P1.09 New Net Name=NetR313_1
+Change Net Color : Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Added Pin To Net: NetName=P1.13 Pin=LED200-2
+Added Pin To Net: NetName=P1.13 Pin=U200-C8
+Added Net: Name=P1.13

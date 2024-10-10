@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3V3 Pin=R800-1
+Removed Pin From Net: NetName=RTC_VDD Pin=R800-2
+Removed Member From Class: ClassName=INTERFACE Member=R800
+Added Pin To Net: NetName=RTC_VDD Pin=BAT800-P
+Added Pin To Net: NetName=RTC_VDD Pin=U800-3
