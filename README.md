@@ -2,18 +2,17 @@ ECG 12 LEADS Project
 Overview
 This project is a 12-lead Electrocardiogram (ECG) system built using the ADS1298 analog front-end (AFE) for biopotential measurements and the nRF5340 microcontroller for processing and wireless communication. The project aims to provide a basic framework for ECG signal acquisition, processing, and transmission over wireless protocols.
 
-Key Features:
+Note: This project is a draft only and is not meant to be a final or production-level design.
+
+Key Features
 12-lead ECG system using ADS1298.
 Wireless communication using nRF5340.
 Modular and expandable hardware architecture.
 Data transmission for remote monitoring.
-Please note that this project is draft only and is not meant to be a final or production-level design.
-
 Hardware
 ADS1298: A low-power, 8-channel, 24-bit analog front-end for ECG and other biopotential measurements.
 nRF5340: Dual-core Bluetooth 5.2 SoC with advanced wireless connectivity and high-performance processing.
-Disclaimer
-This project is incomplete, and the hardware board is not yet fabricated. The current design is a draft, and there may be hardware-related issues or errors. The author takes no responsibility for any hardware faults, failures, or other issues that may arise if this design is fabricated or used by a third party.
+Disclaimer: This project is incomplete, and the hardware board is not yet fabricated. The current design is a draft, and there may be hardware-related issues or errors. The author takes no responsibility for any hardware faults, failures, or other issues that may arise if this design is fabricated or used by a third party.
 
 Usage
 Set up the nRF5340 DK development board with the ADS1298 for ECG signal acquisition.
